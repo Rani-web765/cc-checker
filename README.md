@@ -50,7 +50,7 @@ python3 infamous.py        # 8. Run the Bot
 <p align="center">Click the button below to deploy on Heroku and enjoy its enhanced features and user-friendly interface!</p>
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Infamous-Hydra/cc-checker">
+    <a href="https://heroku.com/deploy?template=https://github.com/Rani-web765/cc-checker">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
 </p>
